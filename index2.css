@@ -1,0 +1,16 @@
+body {
+    background: blue;
+    font-family: Arial;
+    }
+    h1, h2, p {
+        color: white;
+    }
+    
+    header {
+        background: white;
+    }
+    
+    header h1 {
+        color: black;
+    }
+    
