@@ -1,13 +1,16 @@
 body {
+    
+    margin: 0;
     background: blue;
     font-family: Arial;
     }
-    h1, h2, p {
-        color: white;
-    }
+  
     
     header {
         background: white;
+        padding-top: 3em;
+        padding-bottom: 3em;
+
     }
     
     header h1 {
